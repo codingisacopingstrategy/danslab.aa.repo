@@ -1,0 +1,19 @@
+Title:      Index
+Subtitle:   optional
+IsPartOf:   Name of parent publication
+Authors:    Author 1
+            Author 2
+Summary:    A brief description of your document.
+Type:       default 
+            map
+Mode:       canvas
+            cinematic
+
+# Danslab Wiki {: style="top: 30px; left: 30px;" }
+
+C’est parti!
+
+# Come on {: style="top: 60px; left: 60px;" }
+
+And make something nice
+
