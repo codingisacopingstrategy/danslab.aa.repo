@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# Erik Kaiel {: style='left: 20px; top: 70px; width: 321px; height: 394px; z-index: 1; font-size: x-large; background-color: yellow;' }
+# Erik Kaiel {: style='left: 20px; top: 70px; width: 321px; height: 394px; z-index: 0; font-size: x-large; background-color: yellow;' }
 
 
 Erik Kaiel (1139 woorden)
@@ -105,7 +105,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 # 2009/2010 {: style='left: 20px; top: 11px; width: 1116px; height: 394px; z-index: 1; font-size: x-large; background-color: black; color: white;' class='collapsed' }
 
-# 2011/2012 {: style='left: 281px; top: 599px; width: 358px; height: 261px; z-index: 14; background-color: beige;' }
+# 2011/2012 {: style='left: 281px; top: 599px; width: 358px; height: 261px; z-index: 9; background-color: beige;' }
 
 # Erik Kaiel {: style='left: 449px; top: 626px; width: 358px; height: 261px; z-index: 10;' class='collapsed' }
 
@@ -145,7 +145,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 #Network For Choreography And Related Arts {: style='left: 826px; top: 94px; z-index: 4; width: 455px; height: 325px; display: none;' }
 
-# Robert Steijn {: style='left: 768px; top: 41px; z-index: 5; width: 455px; height: 325px;' class='collapsed' }
+# Robert Steijn {: style='left: 768px; top: 41px; z-index: 12; width: 455px; height: 325px;' class='collapsed' }
 
 # Jack Gallagher {: style='left: 725px; top: 60px; z-index: 17; width: 449px; height: 395px; font-size: x-large; background-color: yellow;' }
 
