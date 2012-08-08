@@ -94,11 +94,11 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 # Gabriella Maiorino {: style='left: 335px; top: 20px; display: none;' }
 
-# Codes And Languages {: style='left: 335px; top: 292px; display: none;' }
+# Codes And Languages {: style='left: 335px; top: 292px; display: none; z-index: 13;' }
 
 # Jack Gallagher {: style='left: 645px; top: 20px; z-index: 1; display: none;' }
 
-#Network For Choreography And Related Arts {: style='left: 645px; top: 292px; display: none; z-index: 14;' }
+#Network For Choreography And Related Arts {: style='left: 645px; top: 292px; display: none;' }
 
 # Robert Steijn {: style='left: 953px; top: 20px; z-index: 2; display: none;' }
 
