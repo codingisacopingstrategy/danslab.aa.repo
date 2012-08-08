@@ -145,7 +145,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 
 
-#Network For Choreography And Related Arts {: style='left: 826px; top: 94px; z-index: 12; width: 455px; height: 325px;' }
+#Network For Choreography And Related Arts {: style='left: 826px; top: 94px; z-index: 12; width: 455px; height: 325px; display: none;' }
 
 # Robert Steijn {: style='left: 768px; top: 41px; z-index: 12; width: 455px; height: 325px;' class='collapsed' }
 
