@@ -28,9 +28,9 @@ Mode:       canvas
 
 #Network For Choreography And Related Arts {: style='left: 645px; top: 292px;' }
 
-# Robert Steijn {: style='left: 953px; top: 20px; z-index: 2;' }
+# Robert Steijn {: style='left: 953px; top: 20px;' }
 
-# Jack Gallagher {: style='left: 1263px; top: 20px;' }
+# Jack Gallagher {: style='left: 1263px; top: 20px; z-index: 3;' }
 
 # Jack Gallagher {: style='left: 1570px; top: 20px; z-index: 5;' }
 
