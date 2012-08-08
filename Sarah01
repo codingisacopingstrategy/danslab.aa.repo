@@ -29,7 +29,7 @@ Mode:       canvas
 
 # Robert Steijn {: style='left: 953px; top: 20px; z-index: 2; display: none;' }
 
-# Jack Gallagher {: style='left: 1263px; top: 20px;' }
+# Jack Gallagher {: style='left: 1263px; top: 20px; z-index: 3; display: none;' }
 
 # Jack Gallagher {: style='left: 1570px; top: 20px; z-index: 4;' }
 
