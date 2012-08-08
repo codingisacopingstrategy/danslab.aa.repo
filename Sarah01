@@ -98,7 +98,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 # Jack Gallagher {: style='left: 645px; top: 20px; z-index: 1; display: none;' }
 
-#Network For Choreography And Related Arts {: style='left: 645px; top: 292px; display: none;' }
+#Network For Choreography And Related Arts {: style='left: 645px; top: 292px; display: none; z-index: 14;' }
 
 # Robert Steijn {: style='left: 953px; top: 20px; z-index: 15; display: none;' }
 
