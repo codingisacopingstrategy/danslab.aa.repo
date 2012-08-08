@@ -107,9 +107,9 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 # 2011/2012 {: style='left: 281px; top: 599px; width: 358px; height: 261px; z-index: 14; background-color: beige;' }
 
-# Erik Kaiel {: style='left: 449px; top: 626px; width: 358px; height: 261px; z-index: 14;' class='collapsed' }
+# Erik Kaiel {: style='left: 449px; top: 626px; width: 358px; height: 261px; z-index: 10;' class='collapsed' }
 
-# EK Photo1{: style='left: 319px; top: 314px; z-index: 13; width: 367px; height: 230px; background-color: beige; display: none;' }
+# EK Photo1{: style='left: 319px; top: 314px; z-index: 16; width: 367px; height: 230px; background-color: beige; display: none;' }
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0871.jpg||embed:img ]]
 
@@ -129,7 +129,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0887.jpg||embed:img ]]
 
-# EK Photo1{: style='left: 409px; top: 195px; z-index: 2; width: 242px; height: 278px;' }
+# EK Photo1{: style='left: 409px; top: 195px; z-index: 16; width: 242px; height: 278px;' }
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0875.jpg||embed:img ]]
 
