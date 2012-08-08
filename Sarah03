@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# Erik Kaiel {: style='left: 20px; top: 70px; width: 321px; height: 394px; z-index: 0; font-size: x-large; background-color: yellow;' }
+# Erik Kaiel {: style='left: 20px; top: 70px; width: 321px; height: 394px; z-index: 1; font-size: x-large; background-color: yellow;' }
 
 
 Erik Kaiel (1139 woorden)
@@ -105,11 +105,11 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 # 2009/2010 {: style='left: 20px; top: 11px; width: 1116px; height: 394px; z-index: 1; font-size: x-large; background-color: black; color: white;' class='collapsed' }
 
-# 2011/2012 {: style='left: 281px; top: 599px; width: 358px; height: 261px; z-index: 9; background-color: beige;' }
+# 2011/2012 {: style='left: 281px; top: 599px; width: 358px; height: 261px; z-index: 14; background-color: beige;' }
 
 # Erik Kaiel {: style='left: 449px; top: 626px; width: 358px; height: 261px; z-index: 14;' class='collapsed' }
 
-# EK Photo1{: style='left: 319px; top: 314px; z-index: 16; width: 367px; height: 230px; background-color: beige; display: none;' }
+# EK Photo1{: style='left: 319px; top: 314px; z-index: 13; width: 367px; height: 230px; background-color: beige; display: none;' }
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0871.jpg||embed:img ]]
 
@@ -133,7 +133,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0875.jpg||embed:img ]]
 
-# EK Photo1{: style='left: 261px; top: 75px; z-index: 13; width: 300px; height: 236px; background-color: beige;' }
+# EK Photo1{: style='left: 261px; top: 75px; z-index: 7; width: 300px; height: 236px; background-color: beige;' }
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0872.jpg||embed:img ]]
 
@@ -141,11 +141,9 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 
 
-# Codes And Languages {: style='left: 335px; top: 292px; display: none; z-index: 13;' }
+# Codes And Languages {: style='left: 335px; top: 292px; display: none; z-index: 8;' }
 
-
-
-#Network For Choreography And Related Arts {: style='left: 826px; top: 94px; z-index: 12; width: 455px; height: 325px; display: none;' }
+#Network For Choreography And Related Arts {: style='left: 826px; top: 94px; z-index: 4; width: 455px; height: 325px; display: none;' }
 
 # Robert Steijn {: style='left: 768px; top: 41px; z-index: 12; width: 455px; height: 325px;' class='collapsed' }
 
@@ -215,7 +213,7 @@ The research presentation in December 2009 was an opportunity for me to substant
 Once again Danslab has proved itself to be the place where you begin by pursuing what you want to do, and end up doing what you need to do. 
 In research, one is constantly discovering new needs along the way.
 
-# JG Photo1{: style='left: 826px; top: 108px; z-index: 6; width: 455px; height: 325px; display: none;' }
+# JG Photo1{: style='left: 826px; top: 108px; z-index: 12; width: 455px; height: 325px; display: none;' }
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0871.jpg||embed:img ]]
 
