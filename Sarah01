@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# Erik Kaiel {: style='left: 27px; top: 20px; width: 311px; height: 562px;' }
+# Erik Kaiel {: style='left: 27px; top: 20px; width: 311px; height: 562px; z-index: 1;' }
 
 
 Erik Kaiel (1139 woorden)
@@ -96,7 +96,7 @@ Viva la revolution! Every performer is a revolutionary. Revolving things so that
 
 # Codes And Languages {: style='left: 335px; top: 292px; display: none;' }
 
-# Jack Gallagher {: style='left: 645px; top: 20px; z-index: 0; display: none;' }
+# Jack Gallagher {: style='left: 645px; top: 20px; z-index: 1; display: none;' }
 
 #Network For Choreography And Related Arts {: style='left: 645px; top: 292px; display: none;' }
 
