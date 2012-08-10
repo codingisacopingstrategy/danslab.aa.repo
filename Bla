@@ -17,5 +17,5 @@ Here comes your content
 
 Here comes some more content
 
-{% page_list %}
+{% pages_list %}
 
