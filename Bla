@@ -11,7 +11,7 @@ Mode:       canvas
 
 {% pagelist %}
 
-# First section {: style='left: 43px; top: 0px;' }
+# First section {: style='left: 43px; top: 29px;' }
 
 Here comes your content
 
