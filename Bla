@@ -17,7 +17,7 @@ Here comes your content
 
 {% pagelist %}
 
-# Second section {: style='left: 502px; top: 146px;' }
+# Second section {: style='left: 349px; top: 29px;' }
 
 Here comes some more content
 
