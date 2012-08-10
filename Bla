@@ -1,4 +1,4 @@
-Title:      bla
+Title:      Bla
 Subtitle:   optional
 IsPartOf:   Name of parent publication
 Authors:    Author 1
@@ -9,13 +9,13 @@ Type:       default
 Mode:       canvas
             cinematic
 
+{% pagelist %}
+
 # First section {: style="top: 30px; left: 30px;" }
 
 Here comes your content
 
-# Second section {: style='left: 370px; top: 23px;' }
+# Second section {: style="top: 60px; left: 60px;" }
 
 Here comes some more content
-
-{% pagelist %}
 
