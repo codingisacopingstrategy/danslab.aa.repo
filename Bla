@@ -15,6 +15,8 @@ Mode:       canvas
 
 Here comes your content
 
+{% pagelist %}
+
 # Second section {: style='left: 502px; top: 146px;' }
 
 Here comes some more content
