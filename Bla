@@ -13,7 +13,7 @@ Mode:       canvas
 
 Here comes your content
 
-# Second section {: style="top: 60px; left: 60px;" }
+# Second section {: style='left: 370px; top: 23px;' }
 
 Here comes some more content
 
