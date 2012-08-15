@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# codes_and_languages {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# codes_and_languages {: style='top: 30px; left: 30px; background-color: blue; color: white; z-index: 0;' }
 
 
 introduction
