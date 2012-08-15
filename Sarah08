@@ -26,7 +26,7 @@ Mode:       canvas
 
 # robert_steijn/ {: style='top: 75px; left: 798px; background-color: blue; color: white; width: 291px; height: 155px; z-index: 7;' }
 
-# hello 2009/2010 {: style='top: 423px; left: 554px; background-color: blue; color: white; z-index: 0;' class='collapsed' }
+# hello 2009/2010 {: style='top: 423px; left: 554px; background-color: blue; color: white; z-index: 0;' }
 
 # hello 2010/2011 {: style='top: 41px; left: 34px; background-color: yellow; width: 1276px; height: 281px; font-size: xx-large; text-align: center; z-index: 7;' class='collapsed' }
 
