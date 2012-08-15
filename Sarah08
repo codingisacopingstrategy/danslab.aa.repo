@@ -22,13 +22,13 @@ Mode:       canvas
 
 # jack_gallagher/ {: style='top: 74px; left: 1100px; background-color: blue; color: white; width: 302px; height: 76px;' }
 
-# platform_gender/ {: style='top: 75px; left: 232px; background-color: white; color: white; width: 300px; height: 87px; z-index: 7;' }
+# platform_gender/ {: style='top: 75px; left: 232px; background-color: blue; color: white; width: 300px; height: 87px;' }
 
 # robert_steijn/ {: style='top: 75px; left: 798px; background-color: blue; color: white; width: 291px; height: 155px;' }
 
 # hello 2009/2010 {: style='top: 423px; left: 554px; background-color: blue; color: white; z-index: 9;' }
 
-# hello 2010/2011 {: style='top: 56px; left: 29px; background-color: yellow; width: 1276px; height: 281px; font-size: xx-large; text-align: center;' }
+# hello 2010/2011 {: style='top: 56px; left: 29px; background-color: white; width: 1276px; height: 281px; font-size: xx-large; text-align: center;' }
 
 hello world
 
