@@ -21,7 +21,7 @@ write dance
 # 1 {: style="top: 60px; left: 60px; color:blue;" }
 
 
-# 2 {: style='top: 224px; left: 337px; color: blue;' }
+# 2 {: style='top: 224px; left: 337px; color: blue; text-align: center;' }
 
 # 3 {: style='top: 14px; left: 393px; color: blue; text-align: center;' }
 
