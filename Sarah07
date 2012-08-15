@@ -14,12 +14,11 @@ Mode:       canvas
 
 introduction
 
-# text's dancers {: style='top: 60px; left: 60px; text-align: center;' }
+# text's dancers {: style="top: 60px; left: 60px;" }
 
 write dance
 
-# 1 {: style="top: 60px; left: 60px; color:blue;" }
-
+# 1 {: style='top: 60px; left: 60px; color: blue; text-align: center;' }
 
 # 2 {: style='top: 224px; left: 337px; color: blue; text-align: center;' }
 
