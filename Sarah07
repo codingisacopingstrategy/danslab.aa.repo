@@ -28,11 +28,13 @@ write
 
 # 3 {: style='top: 14px; left: 393px; color: blue; text-align: center;' }
 
-# 4 {: style='top: 324px; left: 242px; color: blue; text-align: center; width: 539px; height: 400px;' }
+# 4 {: style='top: 324px; left: 242px; color: blue; text-align: center; width: 539px; height: 400px; z-index: 7;' }
 
 # 5 {: style='top: 139px; left: 606px; color: blue; width: 300px; height: 251px; text-align: center;' }
 
-# 6 {: style='top: 87px; left: 832px; color: blue; width: 300px; height: 151px; text-align: center; z-index: 9;' }
+# 6 {: style='top: 87px; left: 832px; color: blue; width: 300px; height: 151px; text-align: center;' }
 
-# erik_kaiel {: style='top: 14px; left: 1234px; background-color: blue; color: white;' }
+
+
+# erik_kaiel {: style='top: 14px; left: 1234px; background-color: blue; color: white; z-index: 1;' }
 
