@@ -15,7 +15,7 @@ Mode:       canvas
 
 # 2009/2010 {: style='top: 360px; left: 32px; background-color: yellow; color: black; width: 1373px; height: 400px; z-index: 1;' class='collapsed' }
 
-# 2010/2011 {: style='top: 30px; left: 30px; background-color: grey; color: black; width: 1371px; height: 400px; z-index: 3;' class='collapsed' }
+# 2010/2011 {: style='top: 30px; left: 30px; background-color: grey; color: black; width: 1371px; height: 400px; z-index: 3;' }
 
 # codes_and_languages {: style='top: 75px; left: 33px; background-color: blue; color: white; width: 191px; height: 225px; z-index: 9;' }
 
