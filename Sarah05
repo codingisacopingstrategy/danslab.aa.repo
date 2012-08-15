@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# Codes And Languages{@ID=picture;  @style=left: 47px; top: 71px; position: absolute; width: 404px; height: 301px;}{: style='height: 301px; left: 400px; top: 41px; width: 400px;' }
+# Codes And Languages{@style=left: 47px; top: 71px; position: absolute; width: 404px; height: 301px;}{: id='picture;': style='height: 301px; left: 400px; top: 41px; width: 400px;' }
 
 # Second section {: style='top: 41px; left: 68px;' }
 
