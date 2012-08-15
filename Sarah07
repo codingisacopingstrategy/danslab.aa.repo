@@ -14,7 +14,7 @@ Mode:       canvas
 
 introduction
 
-# text's dancers {: style="top: 60px; left: 60px;" }
+# text's dancers {: style='top: 60px; left: 60px; text-align: center;' }
 
 write dance
 
