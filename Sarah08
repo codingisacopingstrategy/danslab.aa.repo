@@ -28,7 +28,7 @@ Mode:       canvas
 
 # hello 2009/2010 {: style='top: 423px; left: 554px; background-color: blue; color: white;' }
 
-# hello 2010/2011 {: style='top: 195px; left: 235px; background-color: yellow; width: 300px; height: 127px; font-size: xx-large; text-align: center;' }
+# hello 2010/2011 {: style='top: 129px; left: 236px; background-color: yellow; width: 300px; height: 127px; font-size: xx-large; text-align: center;' }
 
 hello world
 
