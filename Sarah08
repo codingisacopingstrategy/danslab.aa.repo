@@ -1,0 +1,23 @@
+Title:      Sarah08
+Subtitle:   optional
+IsPartOf:   Name of parent publication
+Authors:    Author 1
+            Author 2
+Summary:    A brief description of your document.
+Type:       default 
+            map
+Mode:       canvas
+            cinematic
+
+
+# 2009/2010 {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# 2010/2011 {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# codes_and_languages {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# erik_kaiel {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# gabriella_maiorino/ {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# jack_gallagher/ {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# platform_gender/ {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# robert_steijn/ {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# hello 2009/2010 {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# hello 2010/2011 {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+
