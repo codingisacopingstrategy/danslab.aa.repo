@@ -19,5 +19,5 @@ Mode:       canvas
 # platform_gender/ {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
 # robert_steijn/ {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
 # hello 2009/2010 {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
-# hello 2010/2011 {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
+# hello 2010/2011 {: style='top: 176px; left: 377px; background-color: blue; color: white;' }
 
