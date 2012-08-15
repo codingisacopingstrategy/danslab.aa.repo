@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# codes_and_languages {: style='top: 30px; left: 30px; background-color: blue; color: white; z-index: 0;' }
+# codes_and_languages {: style="top: 30px; left: 30px;background-color:blue; color:white;" }
 
 
 introduction
@@ -24,7 +24,7 @@ write
 
 # 1 {: style='top: 380px; left: 804px; color: blue; text-align: center; width: 300px; height: 207px;' }
 
-# 2 {: style='top: 38px; left: 705px; color: blue; text-align: center; width: 380px; height: 261px;' }
+# 2 {: style='top: 38px; left: 705px; color: blue; text-align: center; width: 380px; height: 261px; z-index: 5;' }
 
 # 3 {: style='top: 14px; left: 393px; color: blue; text-align: center;' }
 
