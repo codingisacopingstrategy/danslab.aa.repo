@@ -14,7 +14,7 @@ Mode:       canvas
 
 
 
-# [[ 2009-2010-Codes-and-Languages | codes_and_languages ]] {: style='background-color: blue; color: white; width: 623.167px; height: 309.167px; z-index: 9; left: 5px; top: 36px;' }
+# [[ 2009-2010-Codes-and-Languages | codes_and_languages ]] {: style='background-color: blue; color: white; width: 623.167px; height: 309.167px; z-index: 12; left: 5px; top: 36px;' }
 
 short bio
 or
@@ -30,7 +30,7 @@ tags
 
 # robert_steijn/ {: style='top: 42px; left: 484px; background-color: white; color: white; width: 183.167px; height: 132.167px; z-index: 5;' }
 
-# hello 2010/2011 {: style='top: 376px; left: 31px; width: 1368px; height: 281px; font-size: xx-large; z-index: 9; background-color: yellow;' class='year collapsed' } {@class=year}
+# hello 2010/2011 {: style='top: 376px; left: 31px; width: 1368px; height: 281px; font-size: xx-large; z-index: 7; background-color: yellow;' class='year collapsed' } {@class=year}
 
 
 
