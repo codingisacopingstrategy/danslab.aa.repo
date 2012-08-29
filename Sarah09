@@ -22,7 +22,7 @@ tags
 
 # erik_kaiel {: style='top: 208px; left: 645px; background-color: blue; color: white; width: 468px; height: 45px; z-index: 0;' }
 
-# gabriella_maiorino/ {: style='top: 39px; left: 342px; background-color: blue; color: white; width: 315.167px; height: 133.167px; z-index: 12;' }
+# gabriella_maiorino/ {: style='top: 39px; left: 342px; background-color: blue; color: white; width: 315.167px; height: 133.167px; z-index: 11;' }
 
 # jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 2;' }
 
@@ -52,7 +52,7 @@ from
 
 # erik_kaiel/ {: style='top: 404px; left: 33px; background-color: blue; color: white; width: 201px; height: 123px; z-index: 14;' }
 
-# gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px;' }
+# gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px; z-index: 1;' }
 
 # hypermap/ {: style='top: 494px; left: 252px; background-color: blue; color: white; width: 232px; height: 127px; z-index: 3;' }
 
@@ -60,7 +60,7 @@ from
 
 # network_for_choreography_and_related_arts/ {: style='top: 405px; left: 251px; background-color: blue; color: white; width: 492px; height: 53px; z-index: 7;' }
 
-# parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 8;' }
+# parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 9;' }
 
 # robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 14;' }
 
