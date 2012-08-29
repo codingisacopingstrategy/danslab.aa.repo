@@ -22,11 +22,11 @@ tags
 
 # erik_kaiel {: style='top: 208px; left: 645px; background-color: blue; color: white; width: 468px; height: 45px; z-index: 0;' }
 
-# gabriella_maiorino/ {: style='top: 57px; left: 523px; background-color: blue; color: white; width: 232px; height: 133px; z-index: 11;' }
+# gabriella_maiorino/ {: style='top: 57px; left: 523px; background-color: blue; color: white; width: 232px; height: 133px; z-index: 13;' }
 
 # jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 5;' }
 
-# platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 12;' }
+# platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 13;' }
 
 # robert_steijn/ {: style='top: 37px; left: 806px; background-color: blue; color: white; width: 146px; height: 132px; z-index: 5;' }
 
@@ -62,5 +62,5 @@ from
 
 # parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 9;' }
 
-# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 11;' }
+# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 10;' }
 
