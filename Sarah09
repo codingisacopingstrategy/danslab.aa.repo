@@ -28,7 +28,7 @@ tags
 
 # platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 11;' }
 
-# robert_steijn/ {: style='top: 37px; left: 692px; background-color: blue; color: white; width: 146px; height: 132px; z-index: 5;' }
+# robert_steijn/ {: style='top: 37px; left: 692px; background-color: white; color: white; width: 146px; height: 132px; z-index: 5;' }
 
 # hello 2010/2011 {: style='top: 376px; left: 31px; width: 1368px; height: 281px; font-size: xx-large; z-index: 7; background-color: yellow;' class='year collapsed' } {@class=year}
 
