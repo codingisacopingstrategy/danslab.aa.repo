@@ -26,7 +26,7 @@ tags
 
 # jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 5;' }
 
-# platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 13;' }
+# platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 11;' }
 
 # robert_steijn/ {: style='top: 37px; left: 692px; background-color: blue; color: white; width: 146px; height: 132px; z-index: 5;' }
 
@@ -58,9 +58,9 @@ from
 
 # jack_gallagher/ {: style='top: 406px; left: 1233px; background-color: blue; color: white; width: 156px; height: 76px; z-index: 4;' }
 
-# network_for_choreography_and_related_arts/ {: style='top: 405px; left: 251px; background-color: blue; color: white; width: 492px; height: 53px; z-index: 8;' }
+# network_for_choreography_and_related_arts/ {: style='top: 405px; left: 251px; background-color: blue; color: white; width: 492px; height: 53px; z-index: 7;' }
 
 # parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 9;' }
 
-# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 10;' }
+# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 13;' }
 
