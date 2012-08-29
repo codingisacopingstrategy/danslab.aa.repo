@@ -24,7 +24,7 @@ tags
 
 # gabriella_maiorino/ {: style='top: 39px; left: 342px; background-color: blue; color: white; width: 315.167px; height: 133.167px; z-index: 12;' }
 
-# jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 6;' }
+# jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 2;' }
 
 # platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 11;' }
 
@@ -50,7 +50,7 @@ from
 
 2009 / 2010
 
-# erik_kaiel/ {: style='top: 404px; left: 33px; background-color: blue; color: white; width: 201px; height: 123px; z-index: 12;' }
+# erik_kaiel/ {: style='top: 404px; left: 33px; background-color: blue; color: white; width: 201px; height: 123px; z-index: 4;' }
 
 # gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px; z-index: 1;' }
 
@@ -58,7 +58,7 @@ from
 
 # jack_gallagher/ {: style='top: 406px; left: 1233px; background-color: blue; color: white; width: 156px; height: 76px; z-index: 4;' }
 
-# network_for_choreography_and_related_arts/ {: style='top: 405px; left: 251px; background-color: blue; color: white; width: 492px; height: 53px; z-index: 7;' }
+# network_for_choreography_and_related_arts/ {: style='top: 405px; left: 251px; background-color: blue; color: white; width: 492px; height: 53px; z-index: 10;' }
 
 # parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 9;' }
 
