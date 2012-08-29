@@ -52,9 +52,9 @@ from
 
 # erik_kaiel/ {: style='top: 404px; left: 33px; background-color: blue; color: white; width: 201px; height: 123px; z-index: 14;' }
 
-# gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px; z-index: 1;' }
+# gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px;' }
 
-# hypermap/ {: style='top: 494px; left: 252px; background-color: blue; color: white; width: 232px; height: 127px; z-index: 5;' }
+# hypermap/ {: style='top: 494px; left: 252px; background-color: blue; color: white; width: 232px; height: 127px; z-index: 4;' }
 
 # jack_gallagher/ {: style='top: 406px; left: 1233px; background-color: blue; color: white; width: 156px; height: 76px; z-index: 5;' }
 
