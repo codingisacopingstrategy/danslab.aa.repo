@@ -24,7 +24,7 @@ tags
 
 # gabriella_maiorino/ {: style='top: 39px; left: 342px; background-color: blue; color: white; width: 315.167px; height: 133.167px; z-index: 12;' }
 
-# jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 2;' }
+# jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 6;' }
 
 # platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 11;' }
 
@@ -62,5 +62,5 @@ from
 
 # parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 9;' }
 
-# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 5;' }
+# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 14;' }
 
