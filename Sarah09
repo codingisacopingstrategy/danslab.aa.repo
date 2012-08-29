@@ -24,13 +24,13 @@ tags
 
 # gabriella_maiorino/ {: style='top: 39px; left: 342px; background-color: blue; color: white; width: 315.167px; height: 133.167px; z-index: 9;' }
 
-# jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 2;' }
+# jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 6;' }
 
 # platform_gender/ {: style='top: 38px; left: 336px; background-color: white; color: white; width: 309.167px; height: 299.167px; z-index: 2;' }
 
-# robert_steijn/ {: style='top: 41px; left: 525px; background-color: white; color: white; width: 183.167px; height: 132.167px; z-index: 4;' }
+# robert_steijn/ {: style='top: 41px; left: 525px; background-color: white; color: white; width: 183.167px; height: 132.167px; z-index: 9;' }
 
-# hello 2010/2011 {: style='top: 376px; left: 31px; width: 1368px; height: 281px; font-size: xx-large; z-index: 13; background-color: yellow;' class='year collapsed' } {@class=year}
+# hello 2010/2011 {: style='top: 376px; left: 31px; width: 1368px; height: 281px; font-size: xx-large; z-index: 7; background-color: yellow;' class='year collapsed' } {@class=year}
 
 
 
@@ -62,5 +62,5 @@ from
 
 # parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 14;' }
 
-# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 5;' }
+# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 14;' }
 
