@@ -20,7 +20,7 @@ short bio
 or
 tags
 
-# erik_kaiel {: style='top: 208px; left: 645px; background-color: blue; color: white; width: 468px; height: 45px; z-index: 0;' }
+# erik_kaiel {: style='top: 208px; left: 645px; background-color: blue; color: white; width: 468px; height: 45px; z-index: 1;' }
 
 # gabriella_maiorino/ {: style='top: 39px; left: 342px; background-color: blue; color: white; width: 315.167px; height: 133.167px; z-index: 9;' }
 
@@ -52,7 +52,7 @@ from
 
 # erik_kaiel/ {: style='top: 404px; left: 33px; background-color: blue; color: white; width: 201px; height: 123px; z-index: 4;' }
 
-# gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px; z-index: 2;' }
+# gabriella_maiorino/ {: style='top: 405px; left: 921px; background-color: blue; color: white; width: 160px; height: 217px; z-index: 1;' }
 
 # hypermap/ {: style='top: 494px; left: 252px; background-color: blue; color: white; width: 232px; height: 127px; z-index: 3;' }
 
@@ -62,5 +62,5 @@ from
 
 # parallels_and_formats/ {: style='top: 517px; left: 1095px; background-color: blue; color: white; width: 294px; height: 155px; z-index: 14;' }
 
-# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 14;' }
+# robert_steijn/ {: style='top: 404px; left: 759px; background-color: blue; color: white; width: 150px; height: 222px; z-index: 5;' }
 
