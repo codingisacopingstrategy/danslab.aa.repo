@@ -9,9 +9,9 @@ Mode:       canvas
 
 
 
-# [[ Danslab_2009-2011 | The Publication 2009–2011 ]] {: style='background-color: blue; color: white; width: 283px; height: 217px; z-index: 9; left: 30px; top: 35px;' }
+# [[ Danslab_2009-2011 | The Publication 2009–2011 ]] {: style='background-color: blue; color: white; width: 283px; height: 217px; left: 30px; top: 35px; z-index: 1;' }
 
-# Or Anything Else {: style='background-color: rgb(253, 41, 126); color: white; width: 283px; height: 217px; left: 991px; top: 207px; z-index: 0;' }
+# Or Anything Else {: style='background-color: rgb(253, 41, 126); color: white; width: 283px; height: 217px; z-index: 9; left: 991px; top: 207px;' }
 
 Or anything else.
 
