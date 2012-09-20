@@ -1,8 +1,4 @@
 Title:      Index
-IsPartOf:   Name of parent publication
-Authors:    Author 1
-            Author 2
-Summary:    A brief description of your document.
 Type:       default 
             map
 Mode:       canvas
@@ -14,4 +10,8 @@ Mode:       canvas
 
 
 # [[ Danslab_2009-2011 | The Publication 2009–2011 ]] {: style='background-color: blue; color: white; width: 283px; height: 217px; z-index: 9; left: 30px; top: 35px;' }
+
+# [[ Danslab_2009-2011 | The Publication 2009–2011 ]] {: style='background-color: yellow; color: white; width: 283px; height: 217px; z-index: 9; left: 30px; top: 35px;' }
+
+Or anything else.
 
