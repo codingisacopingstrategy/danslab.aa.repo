@@ -1,0 +1,799 @@
+Title:      essai
+Subtitle:   optional
+IsPartOf:   Name of parent publication
+Authors:    Author 1
+            Author 2
+Summary:    A brief description of your document.
+Type:       default 
+            map
+Mode:       canvas
+            cinematic
+
+Title: The Mother of All Demos
+Authors: Douglas Engelbart
+Summary: [[embed::http://codinginparadise.org/weblog/uploaded_images/engelbart-749273.jpg||embed:img]]
+         Original Program Announcement for Mother of All Demos
+
+Annotations from this page come from <https://github.com/atduskgreg/MoAD-Transcript>
+
+
+
+# Video{: style='background-color: rgb(255, 192, 203); top: 100px; left: 33%; width: 33%; height: auto;' }
+
+[[ embed::http://www.archive.org/download/XD300-23_68HighlightsAResearchCntAugHumanIntellect/XD300-23_68HighlightsAResearchCntAugHumanIntellect.ogv||embed:html5video ]]
+
+# Transcript{: about='http://www.archive.org/download/XD300-23_68HighlightsAResearchCntAugHumanIntellect/XD300-23_68HighlightsAResearchCntAugHumanIntellect.ogv' style='left: 0px; top: 100px; width: 33%; height: 487px;' }
+
+%%foaf:person::engelbart|Doug Engelbart%%
+
+01:44,738 -->
+I hope that you'll go along with this rather unusual setting, and the fact that I remain seated when I get introduced, and the fact that I'm going to come to you mostly through this medium here for the rest of the show.  I should tell you that I'm backed up by quite a staff of people between here and Menlo Park [sp?], where Stanford research is located some thirty miles south of here.  If everyone does their job well, it's all go very interesting, I think.  [Laughs]
+
+02:13,867 -->
+The research program that I'm going to describe to you is quickly characterizable by saying:  If in your office, you as an intellectual worker, were supplied with a computer display backed up by a computer that was alive for you all day, and was instantly responsible, responsive [laughs], instantly responsive to every action you had, how much value could you derive from that?  Well, this basically characterizes what we've been pursuing for many years, and what we we call The Augmentive Human Intellect Research Center at Standford Research Institute.
+
+02:49,069 -->
+[[***Now***]], the whole session is going to be devoted to trying to describe and present to you the nature of this program, but unfortunately ... uh .. or fortunately, the products of this program, the technology of it, lends itself well to an interesting way to portray it for you.  So, we're going to do our best to show you, rather than tell you about this program.  A very essential part of what we have developed technologically is what does come through this display to us.  And I'm going to start out without telling you very much about the program, and just run through a little bit of the action that this provides us.
+
+03:27,607 -->
+So in my office I have a console like this, and there are 12 others that are computer supplies.  And we try now-a-days to do our daily work on here.  So this characterizes the way I could sit here and look at a clear blank piece of paper, that's the way I start many projects.  So with my system, I start and say "I'd like to load that in."  So, sorry about that.  So I'm putting in an entity called a "statement."  And this is full of other entities called "words."  If I make some mistakes I can back up a little bit.  So I have a statement with some entities, words, and I can do some operations on these and copy a word, and that word might copy after itself.  In fact, a pair word I like to copy after itself.  And I can just do this a few times, and get a bit of material there.  And there are other materials, like "text."  I can copy from that point to that point.  It's copy.  So I can get myself some material on my blank piece of paper and say, "Well, this is going to be more important than it looks, so I'd like to set up a file."  So I tell the machine, "Output to a file."  And it says, "Well, I need a name."  I'll give it a name.  I'll say it's "sample file."  And I'll say "Please output it", and it did!
+
+# Shots{: about='http://www.archive.org/download/XD300-23_68HighlightsAResearchCntAugHumanIntellect/XD300-23_68HighlightsAResearchCntAugHumanIntellect.ogv' style='left: 66%; top: 100px; height: 483px; width: 33%;' }
+
+00:00:00 -->
+
+%%description::TITLE CARD%%
+
+[[ embed::http://img.skitch.com/20100920-p2qksdwu2ifxeuh27axihq1i95.jpg ]]
+
+~~~~{.centered}
+A RESEARCH CENTER
+FOR
+AUGMENTING HUMAN INTELLECT
+BY
+DOUGLAS C. ENGLEBART AND
+WILLIAM ENGLISH
+        
+DECEMBER 8, 1968 RESEARCH CENTER
+~~~~    
+
+
+%%transition_out::fade_to %%
+
+00:00:07 -->
+
+%%description::TITLE CARD%%
+
+
+[[embed::http://img.skitch.com/20100920-cycbqs51m8k7iieyffgpw8t5d8.jpg]]
+
+
+      PRODUCED AT
+      STANFORD RESEARCH INSTITUTE
+      MENLO PARK, CALIFORNIA
+      UNDER THE JOINT SPONSORSHIP OF:
+      THE ADVANCED RESEARCH PROJECT AGENCY
+      THE NATIONAL AIR AND SPACE AGENCY
+      THE ROME AIR DEVELOPMENT CENTER | AIFORCE
+    
+
+%%transition_out::fade to%%
+
+    
+00:00:19 -->
+
+%%description::TITLE CARD%%
+
+![](http://img.skitch.com/20100920-cj6u45xgj59ck9pwwwdappkxmp.jpg)
+
+      THIS MOVIE CAPTURES DIRECTLY A 
+      TECHNICAL-SESSION PRESENTATION MADE AT
+      THE FALL JOINT COMPUTER CONFERENCE IN 
+      SAN FRANCISCO. ON DECEMBER 8, 1968.
+      
+      THE MOVIE SCREEN WILL SHOW WHAT WAS 
+      PROJECTED BY A HIGH-POWERED TV 
+      PROJECTOR ONTO A 22' X 18' SCREEN
+      MOUNTED AT THE FRONT OF A 2000-CHAIR
+      CONVENTION-CENTER ARENA. AND THE SOUND
+      TRACK WILL REPRODUCE WHAT CAME OVER 
+      THE LOUDSPEAKERS.
+      
+
+%%transition_out::fade to%%
+
+00:00:37 -->
+
+%%description::TITLE CARD%%
+
+![](http://img.skitch.com/20100920-qam3g2u3rtmcdkut5mss6fxnwf.jpg)
+
+      ON THE STAGE, BELOW AND TO THE
+      AUDIENCE'S RIGHT OF THE SCREEN, WAS
+      SEATED THE MAIN SPEAKER (DOUG
+      ENGLEBART) AT THE CONTROLS OF AN
+      ON-LINE COMPUTER-DISPLAY WORK STATION
+      WHOSE DISPLAY OUTPUT WAS PROJECTED ON
+      THE SCREEN (AND SIMULTANEOUSLY
+      CAPTURED ON FILM).
+      
+
+%%transition_out::fade to%%
+
+     
+00:00:51 -->
+
+%%description::TITLE CARD%%
+
+[[embed::http://img.skitch.com/20100920-pn56drd9wkpt9bscr32c8wf7m3.jpg]]
+
+      BEHIND THE SCENES, BILL ENGLISH
+      COORDINATED THE SUPPORTING CREW WHO
+      MANNED CAMERAS, SWITCHES, MIXERS,
+      SPECIAL-EFFECTS CONTROLLERS, ETC..
+      YOU WILL NOTICE THAT ALL PERFORMERS
+      WORE HEADSETS TO COUPLE THEM INTO THE
+      INTERCOM NETWORK THAT INCLUDED A TOTAL
+      OF SIX KEY PEOPLE LOCATED BOTH IN SAN
+      FRANCISCO AND AT THE HOM LABORATORY
+      IN MENLO PARK.
+      
+
+%%transition_out::fade to%%
+
+00:01:12 -->
+
+%%description::TITLE CARD%%
+
+![](http://img.skitch.com/20100920-tdhriem4jmp8pphiaxupiw4u4p.jpg)
+
+      THE CAPTURING ON FILM OF THE AUDIO
+      AND VIDEO WAS A PROCESS SUBSIDIARY TO
+      THE PRESENTATION, AND THE LATTER WAS
+      NOT STOPPED FOR THE TWO TIMES WHEN THE
+      MOVIE-CAMERA OPERATOR HAD TO LOAD
+      FRESH FILM -- CONSEQUENTLY, THERE ARE
+      NOTICEABLE GAPS BETWEEN REELS [OF THE
+      ORDER OF A MINUTE].
+      SIGNALS FROM AUXILIARY TELEVISION
+      CAMERAS WERE SOMETIMES SWITCHED TO THE
+      PROJECTOR -- THE OPENING SCENE IS FROM
+      SUCH A CAMERA, SHOWING ENGLEBART'S
+      FACE VIEW, JUST AFTER HE WAS
+      INTRODUCED.
+      
+
+%%transition_out::fade in from black%%
+
+    
+00:01:32 -->
+
+%%description::LOW ANGLE OF ENGLEBART%%
+
+![](http://img.skitch.com/20100920-rx1bbju52nmrfn4ka22jnrhfxf.jpg)
+
+- apologies for format
+- introduction of backstage staff
+- goal of program
+      
+
+%%transition_out::overlay with%%
+
+    
+00:03:18 -->
+
+%%description::SCREEN OVERLAY%%
+
+![](http://img.skitch.com/20100920-r557p91ygxdnj71p31cmcf79w.jpg)
+
+- blank document
+- inserts a "statement"
+      
+      STATEMENT: WORD WORD WORD WORD
+      #=> STATEMENT ONE: WORD WORD WORD WORD
+      
+- mouse comes up from the bottom of the screen trailing a thin line behind it
+- mouse moves over a word, copy and pasting it after itself accompanied by an analogue printer-type sound
+- copying and pasting to individual insertion points
+- output to a file: a menu at the top of the screen:
+    
+
+%%transition_out::camera fade to white%%
+
+    
+00:04:28 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100920-msuyefb7kaukyb4y2a3kse2xqq.jpg)
+
+      STATEMENT ONE: WORD WORD WORD WORD WORD WORD
+      WORD WORD WORD WORD WORD WORD WORD WORD WORD WORD 
+      WORD WORD WORD WORD WORD WORD WORD WORD ...
+- output to file interface at top of screen:
+      
+      OUTPUT FILE    /NEED NAME
+      
+
+%%transition_out::camera image fades to%%
+
+    
+00:04:46 -->
+
+%%description::ENGLEBART's HANDS ON KEYBOARD%%
+
+![](http://img.skitch.com/20100920-tpd4r99rsygbn4sk5mbxwjpa51.jpg)
+
+- completing process of saving file, top of screen interface:
+      
+      OUTPUT FILE  /SAMPLE\|FILE    |NEW|
+      
+- machine outputs a "header": name, date, etc
+- englebart does some key-combo to get info about the file
+- more copy and pasting: from point-to-point etc
+- englebart collapses each statement to just its first line
+
+%%transition_out::camera image fades out%%
+
+    
+00:05:52 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100920-mpfyksbnxj54i6cbd4gfrmm5h4.jpg)
+
+- "view control"
+      
+
+%%transition_out::camera image fades in%%
+
+00:06:04 -->
+
+%%description::LOW ANGLE OF ENGLEBART%%
+
+![](http://img.skitch.com/20100920-1e4xqn7k8gsi3h4n714yyeb3wd.jpg)
+
+- renaming statements:
+      STATEMENT ONE: WORD WORD WORD WORD WORD WORD
+      STATEMENT TWO: WORD WORD WORD WORD WORD WORD
+      STATEMENT THREE: WORD WORD WORD WORD WORD WORD
+      STATEMENT FOUR: WORD WORD WORD WORD WORD WORD
+      STATEMENT FIVE: WORD WORD WORD WORD WORD WORD
+      STATEMENT SIX: WORD WORD WORD WORD WORD WORD
+      
+- "neatening up" statements
+      
+      STATEMENT ONE:    WORD WORD WORD WORD WORD WORD
+      STATEMENT TWO:    WORD WORD WORD WORD WORD WORD
+      STATEMENT THREE:  WORD WORD WORD WORD WORD WORD
+      STATEMENT FOUR:   WORD WORD WORD WORD WORD WORD
+      STATEMENT FIVE:   WORD WORD WORD WORD WORD WORD
+      STATEMENT SIX:    WORD WORD WORD WORD WORD WORD
+      
+- replace "invisible strings" [tabs for spaces]
+- add numbering:
+      
+      1 STATEMENT ONE:    WORD WORD WORD WORD WORD WORD
+      2 STATEMENT TWO:    WORD WORD WORD WORD WORD WORD
+      3 STATEMENT THREE:  WORD WORD WORD WORD WORD WORD
+      4 STATEMENT FOUR:   WORD WORD WORD WORD WORD WORD
+      5 STATEMENT FIVE:   WORD WORD WORD WORD WORD WORD
+      6 STATEMENT SIX:    WORD WORD WORD WORD WORD WORD
+      
+- opens them up with numbers
+- removes numbers
+- accidentally deletes file and reloads it from an old saved version
+- loading a file with his wife's shopping list
+      
+
+%%transition_out::camera fade to white%%
+
+    
+00:08:48 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100920-eakgdermwebbxubjq4gywj4hh.jpg)
+
+      /SHOPLIST, 12/07/68 1127.20 DCE
+      ORANGES
+      APPLES
+      BANNAS
+      SOUP
+      ...
+      
+- reveals numbers
+- paging down by clicking on individual numbers
+      
+
+%%transition_out::wipe in from right to%%
+
+00:09:09 -->
+
+%%description::LOW ON ENGLEBART VSPLIT WITH SCREEN%%
+
+![](http://img.skitch.com/20100920-xi943cxtnqkqjjffi28m5xdhae.jpg)
+
+        - reordering list
+        - problem creating category
+        - successfully creates "produce category" with indenting
+        SOUP
+        PRODUCE
+          CARROTS
+          BANANAS
+            SKINLESS
+          ORANGES
+          APPLES
+        LETTTUCE
+        - with and without numbers
+        - opening and closing levels of outline- opens version of the file organized by each store that he needs to stop at
+        - jumping around numbered list by location number
+        JUMP TO NUMBER
+        JUMP TO NAME
+          
+        - making cross-references
+        - naming something "ALPHA" and linking it to another place in the document
+        - clicks on a ROUTE
+        - list is replaced with a map
+        
+
+%%transition_out::wipe to%%
+
+    
+00:15:37 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100920-bytpg4dah7pnx6xgawr14jnk8s.jpg)
+
+       - lines connecting points on a route, labeled with text
+       - "picturing drawing capability"
+       - labels on text are links back into list
+       - back to list outline
+    
+
+%%transition_out::wipe in from right%%
+
+    
+00:16:36 -->
+
+%%description::LOW ON ENGLEBART VSPLIT WITH SCREEN%%
+
+![](http://img.skitch.com/20100920-mnax4gp9e1sfeis34snbkx1fbi.jpg)
+
+       - returns to outline, but outline is agenda for presentation:
+       INTRODUCTION
+         ----
+       OVERALL ABOUT PROGRAM
+       NLS AS AN "INSTRUMENT"
+       CONTROL TECHNIQUES
+       NLS IMPLEMENTATION
+       USAGE
+       ACTIVITIES
+       CREDIT
+     
+
+%%transition_out::Swipe to%%
+
+    
+00:16:45 -->
+
+%%description::LOW ON ENGLEBART%%
+
+![](http://img.skitch.com/20100920-qk19nh45xe464b1hsabd2ngejy.jpg)
+
+- real daily use of the system
+- general features
+      
+00:17:43 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100920-qejj7dmkga26qyfpq1dj8aaq28.jpg)
+
+![](http://img.skitch.com/20100921-nwijr3ikn1csi9uih8qgpbfmqu.jpg)
+
+![](http://img.skitch.com/20100921-bbrxi4tgwwcgttp5anbw4wg3bi.jpg)
+
+      FREEZE LATER: 
+      JUMP: 
+- link-based presentation software
+- explains jumps and their arguments
+- frozen statements: like a frame
+- explanation of Augment's position in SRI
+- ARC: 17 people with lab
+- graph of ARC staffing over time (1950-1968) 
+- proceeds through ARC goals: system-oriented solution, etc.
+- NLS: "online system": an instrument and a vehicle
+- control devices
+      
+
+%%transition_out::half-wipe up %%
+
+    
+00:26:05 -->
+
+%%description::ENGLEBART HANDS ON KEYBOARD HSPLIT WITH SCREEN%%
+
+![](http://img.skitch.com/20100921-rhj56mdkwixjpddwka968tanxs.jpg)
+
+        
+![](http://img.skitch.com/20100921-gu5rq5s7dbnu9ek341tu9jtqdu.jpg)
+
+          - moves hands to reveal mouse and special keys
+    
+
+%%transition_out::cut to vertical half-wipe%%
+
+    
+00:26:18 -->
+
+%%description::ENGLEBART HANDS ON KEYBOARD VSPLIT WITH SCREEN%%
+
+![](http://img.skitch.com/20100921-f3fj5qi2sn3a1iix1gfkmrix85.jpg)
+
+%%transition_out::cut to horizontal half-wipe%%
+
+    
+00:26:24 -->
+
+%%description::ENGLEBART HANDS ON KEYBOARD HSPLIT WITH SCREEN%%
+
+![](http://img.skitch.com/20100921-nbrtsj6e47dyynx6a8c3nhqts4.jpg)
+
+          - Englebart announces switch to Menlo Park for mouse demo
+
+%%transition_out::wipe down to full screen%%
+
+    
+00:26:32 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100921-cbb7mppsrm3kwpu9yja8dqme3r.jpg)
+
+          - "Come in Menlo Park"
+
+%%transition_out::half-wipe in from right%%
+
+    
+00:26:33 -->
+
+%%description::HAND ON MOUSE HSPLIT WITH SCREEN%%
+
+![](http://img.skitch.com/20100921-fsttf5iw59r4f2r595iietqds1.jpg)
+
+- "OK. There's Don Anders' hand in Menlo Park."
+
+%%transition_out::screen cuts to Menlo Park screen%%
+
+    
+00:26:40 -->
+
+%%description::HAND ON MOUSE HSPLIT WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-mxg248286j1fr78bunpp3e38qr.jpg)
+
+![](http://img.skitch.com/20100921-rff5qey526j46y7j7ixybbt4tn.jpg)
+
+      "I don't know why we call it a mouse. Sometimes I apologize"
+- Don turns the mouse over to reveal its wheels
+- two pots at 90-degree angles to each other
+
+%%transition_out::wipe right to full screen%%
+
+    
+00:27:43 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-xctqk34xy272win2e1eyrf5amd.jpg)
+
+00:27:46 -->
+
+%%description::ENGLEBART HANDS ON KEYBOARD%%
+
+![](http://img.skitch.com/20100921-tj6cxhmcdfbjns41dr2ujgxh6c.jpg)
+
+    additional_images: 
+
+![](http://img.skitch.com/20100921-j3xcu7cpdu9cuqc8kt2h24rki4.jpg)
+
+- camera rotates around more directly behind englebart
+- explaining lack of absolute position of mouse pointer
+
+%%transition_out::jump cut to same shot%%
+
+    
+00:28:43 -->
+
+%%description::ENGLEBART HANDS ON KEYBOARD%%
+
+![](http://img.skitch.com/20100921-fdm56kt3k8xghmge7qg4g4w6a7.jpg)
+
+- fidgeting with special keyboard
+
+%%transition_out::cut with static%%
+
+    
+00:28:52 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-k472pqsq9ni9mk3wyaysh7gbdb.jpg)
+
+%%transition_out::half-wipe in from right%%
+
+    
+00:28:53 -->
+
+%%description::HAND ON SPECIAL KEYS HSPLIT WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-1q56rfu8mp3kmrkd1deiyt5256.jpg)
+
+- combinations of keys produce different characters
+
+%%transition_out::jump cut%%
+
+    
+00:29:18 -->
+
+%%description::BLACK%%
+
+![](http://img.skitch.com/20100921-c4c68unm9ncnbdaxpga2pfrt6d.jpg)
+
+%%transition_out::jump cut%%
+
+    
+00:29:19 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100921-1bxd5akisdkgxiysrxtuuj5knx.jpg)
+
+    additional_images: 
+
+![](http://img.skitch.com/20100921-ehge68g6tts3n3bbxp7i3nbf1m.jpg)
+
+        - Bill English's diagram about how the controllers work
+        - things they added to a conventional SDS-940 system
+        - Project Genie timesharing project priority system
+
+%%transition_out::fade%%
+
+    
+00:32:11 -->
+
+%%description::MENLO PARK DISPLAY HARDWARE%%
+
+![](http://img.skitch.com/20100921-rbu3ax771uyfkxqahrud71ciq8.jpg)
+
+![](http://img.skitch.com/20100921-k5wf5gigc2yryc5uxiux136pti.jpg)
+
+![](http://img.skitch.com/20100921-xj7mykqg749aufgi34pm16muap.jpg)
+
+- push in to close up of CRT inside display
+
+%%transition_out::fade%%
+
+    
+00:32:30 -->
+
+%%description::MENLO PARK DISPLAY HARDWARE OVERLAID WITH SCREEN%%
+
+![](http://img.skitch.com/20100921-1gqmbt4k9sai4dtw41gkj5nw1n.jpg)
+
+- overlays image from Englebart screen with Menlo Park CRT to show they are the same
+
+%%transition_out::pull out and fade%%
+
+    
+00:32:27 -->
+
+%%description::MENLO PARK DISPLAY HARDWARE%%
+
+![](http://img.skitch.com/20100921-tw1p4ykuwticg3ie4e7rsme925.jpg)
+
+![](http://img.skitch.com/20100921-pc962bhu8jrgf37u7wcgn6b5cn.jpg)
+
+![](http://img.skitch.com/20100921-kyqbsebqhqq741hs7xpm66us4f.jpg)
+
+![](http://img.skitch.com/20100921-pb4ynb42aaq52f3pu6rb9gyahj.jpg)
+
+![](http://img.skitch.com/20100921-trgx3weecfq323y775hckqfw8q.jpg)
+
+![](http://img.skitch.com/20100921-piyar15m45hfqkqxik5wqjmhmd.jpg)
+
+- pan right and pull out to show the rest of the display hardware
+
+%%transition_out::cut%%
+
+    
+00:33:25 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100921-q5bgbgjxfnxx657awcdipx9q2q.jpg)
+
+- description of display system functioning
+
+%%transition_out::fade  %%
+
+00:34:31 -->
+
+%%description::LOW ANGLE OF ENGLEBART OVERLAID WITH SCREEN%%
+
+![](http://img.skitch.com/20100921-mwi6dt281nub2fq995a3w9krjm.jpg)
+
+![](http://img.skitch.com/20100921-1w899spnardb55k8k8m3rrrf5u.jpg)
+
+- sticky cathode to acheive low refresh rate on CRT
+- mix of fade shifts towards screen
+
+%%transition_out::fade%%
+
+    
+00:35:27 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100921-fmhen3651qcjy781y4g53eg3ki.jpg)
+
+- introduction of Jeff Willison at Menlo Park
+
+%%transition_out::fade%%
+
+    
+00:35:35 -->
+
+%%description::JEFF AT MENLO PARK%%
+
+![](http://img.skitch.com/20100921-gajkdqigg1skxdhc2knbbrd67f.jpg)
+
+- Englebart prompts him with questions
+
+%%transition_out::fade%%
+
+    
+00:36:36 -->
+
+%%description::JEFF OVERLAID WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-ginrmtew7d5ibws83269hbws2g.jpg)
+
+- showing an interface the system programmers built
+
+%%transition_out::fade%%
+
+    
+00:36:49 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-b85cqiw18jau12mqhmj8f557wn.jpg)
+
+    additional_images: 
+
+![](http://img.skitch.com/20100921-m5uxbgc4hb8muyuk82t4je69gn.jpg)
+
+- is this the actual source code?
+
+%%transition_out::fade%%
+
+    
+00:39:36 -->
+
+%%description::CLOSE-UP OF JEFF's HAND ON CHORDING KEYBOARD OVERLAID WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-b4xhdhx9wrn9m139fiajepm4pb.jpg)
+
+- examples of different languages
+- higher and lower languages
+
+%%transition_out::fade%%
+
+    
+00:40:33 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-dj6mp8ik138n338des9r9tctm2.jpg)
+
+- close-reading of code
+- code folding
+
+%%transition_out::fade%%
+
+    
+00:41:29 -->
+
+%%description::JEFF OVERLAID WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-cr3hh82tqhapkhuqqwdpnim3n.jpg)
+
+- what's the difference between "special languages" and file formats? are they markup?
+
+%%transition_out::fade%%
+
+    
+00:42:19 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-xgedtrcycu56sjw81h17p368j2.jpg)
+
+%%transition_out::fade%%
+
+    
+00:42:54 -->
+
+%%description::JEFF OVERLAID WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-1diie8cub6d8bybnmp9swcr7qx.jpg)
+
+- language design
+
+%%transition_out::fade%%
+
+    
+00:43:21 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-kda91q74jmubwmmscbr6mepid2.jpg)
+
+- dessign of the compiler-compiler "3 Meta"
+
+%%transition_out::fade%%
+
+    
+00:44:04 -->
+
+%%description::JEFF OVERLAID WITH MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-ncqfy9enjwnyapsdbk6tihhjxe.jpg)
+
+%%transition_out::slow fade%%
+
+    
+00:44:47 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-r1e7ccjtrdtwuptxjpqb5t59cp.jpg)
+
+%%transition_out::fade%%
+
+    
+00:45:07 -->
+
+%%description::LOW ON ENGLEBART%%
+
+![](http://img.skitch.com/20100921-p4y2p2t6ex7d3tmixehmcxjg12.jpg)
+
+- Englebart interrupts
+
+%%transition_out::fade%%
+
+    
+00:45:17 -->
+
+%%description::MENLO PARK SCREEN%%
+
+![](http://img.skitch.com/20100921-juck453yg2thx985bxp57d8t82.jpg)
+
+- back and forth between Jeff and Englebart
+
+%%transition_out::jump cut%%
+
+    
+00:47:46 -->
+
+%%description::SCREEN%%
+
+![](http://img.skitch.com/20100921-8thftbb7mhm822rq9rs7q2a5nm.jpg)
+![](http://img.skitch.com/20100921-8a3ejuwumsqx28an8cxu86grrn.jpg)
+
+- split viewing "windows" (like emacs windows)
+- mouse drawing in dictionary
+
