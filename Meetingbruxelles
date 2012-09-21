@@ -9,15 +9,11 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# First box {: style="top: 30px; left: 30px;" }
+# First section {: style="top: 30px; left: 30px;" }
 
 Here comes your content
 
-# Second box {: style='left: 377px; top: 131px;' }
+# Second section {: style="top: 60px; left: 60px;" }
 
 Here comes some more content
-
-# Third box {: style='left: 594px; top: 15px;' }
-
-Here comes your content
 
