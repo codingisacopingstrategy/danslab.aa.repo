@@ -9,11 +9,11 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# First section {: style='left: 64px; top: 58px;' }
+# First section {: style='left: 52px; top: 35px;' }
 
 Here comes your content
 
-# Second section {: style='top: 6px; left: 416px; width: 300px; height: 206px;' }
+# Second section {: style='left: 376px; top: 4px;' }
 
 Here comes some more content
 
