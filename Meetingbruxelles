@@ -1,4 +1,4 @@
-Title:      meetingbruxelles
+Title:      Meetingbruxelles
 Subtitle:   optional
 IsPartOf:   Name of parent publication
 Authors:    Author 1
@@ -9,11 +9,15 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# First section {: style='left: 180px; top: 97px;' }
+# First section {: style="top: 30px; left: 30px;" }
 
 Here comes your content
 
-# Second section {: style='left: 599px; top: 18px;' }
+# Second section {: style="top: 60px; left: 60px;" }
 
 Here comes some more content
+
+# First section {: style='left: 594px; top: 15px;' }
+
+Here comes your content
 
