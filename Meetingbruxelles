@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-# First section {: style="top: 30px; left: 30px;" }
+# First section {: style='left: 64px; top: 58px;' }
 
 Here comes your content
 
