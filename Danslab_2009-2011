@@ -22,7 +22,7 @@ Mode:       canvas
 
 # jack_gallagher/ {: style='top: 38px; left: 965px; background-color: blue; color: white; width: 311px; height: 130px; z-index: 5;' }
 
-# platform_gender/ {: style='top: 35px; left: 327px; background-color: blue; color: white; width: 148px; height: 130px; z-index: 7;' }
+# platform_gender/ {: style='top: 35px; left: 327px; background-color: blue; color: white; width: 148px; height: 130px; z-index: 7;' class='collapsed' }
 
 # robert_steijn/ {: style='top: 37px; left: 806px; background-color: blue; color: white; width: 146px; height: 132px; z-index: 7;' }
 
