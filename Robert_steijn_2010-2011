@@ -19,7 +19,7 @@ Mode:       canvas
 
 #photos
 
-#video
+#video{: style='left: 55px; top: 118px;' }
 
 #Marcel Bogers{: style='left: 363px; top: 62px;' }
 ##KUNST IS HET PERSOONLIJKE IS HET POLITIEKE
