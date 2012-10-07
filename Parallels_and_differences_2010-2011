@@ -16,5 +16,5 @@ Mode:       canvas
 
 #photos
 
-#videos
+#videos{: style='left: 339px; top: 3px;' }
 
