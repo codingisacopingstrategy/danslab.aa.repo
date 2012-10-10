@@ -23,7 +23,7 @@ Or anything else.
 
 Both images exist and use the exact same syntax, why does only the upper one work?
 
-[[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0871.jpg||resize:50px|embed:img ]]
+[[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0871.jpg||embed:img ]]
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/codes_and_languages/fotos_candl/dsc_0394.jpg ]]
 
