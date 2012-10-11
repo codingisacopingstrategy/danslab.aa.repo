@@ -1,0 +1,15 @@
+Title:      Hypermap 2010-2011
+Subtitle:   optional
+IsPartOf:   Name of parent publication
+Authors:    Author 1
+            Author 2
+Summary:    A brief description of your document.
+Type:       default 
+            map
+Mode:       canvas
+            cinematic
+
+#Photos{: style='left: 994px; top: 125px;' }
+[[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0049.jpg
+||embed:img ]]
+
