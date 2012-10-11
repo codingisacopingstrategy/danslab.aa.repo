@@ -7,8 +7,6 @@ Mode:       canvas
             par artiste
             par liens
 
-Est-ce que?
-
 # [[ Publication_2009-2010 | The Publication 2009–2010 ]] {: style='top: 260px; left: 694px; width: 280px; height: 200px; z-index: 3;' }
 
 # [[ Publication_2010-2011 | The Publication 2010–2011 ]] {: style='top: 262px; left: 991px; width: 280px; height: 200px; z-index: 0;' }
@@ -16,14 +14,4 @@ Est-ce que?
 # Or Anything Else {: style='background-color: rgb(253, 41, 126); color: white; width: 283px; height: 217px; left: 691px; top: 4px; z-index: 0;' }
 
 Or anything else.
-
-# meeting brussels{: style='top: 4px; left: 360px; width: 310px; height: 211px; z-index: 3;' }
-
-# Test images{: style='z-index: 4; left: 220px; top: 2px;' }
-
-Both images exist and use the exact same syntax, why does only the upper one work?
-
-[[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/erik_kaiel/fotos/dsc_0871.jpg||embed:img ]]
-
-[[ embed::http://vps23323.public.cloudvps.com/repo/2009-2010/codes_and_languages/fotos_candl/dsc_0394.jpg||embed:img ]]
 
