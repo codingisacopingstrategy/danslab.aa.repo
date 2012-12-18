@@ -134,7 +134,7 @@ Mode:       canvas
 #Photos
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/beeld/img_0321.jpg
 ||embed:img ]]
-#Photos
+#Photos{: style='left: 649px; top: 207px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/beeld/img_0321.jpg
 ||embed:img ]]
 
