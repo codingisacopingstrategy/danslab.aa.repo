@@ -167,7 +167,7 @@ Mode:       canvas
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/beeld/img_0321.jpg
 ||embed:img ]]
 
-#video{: style='left: 55px; top: 118px;' class='collapsed' }
+#video{: style='left: 55px; top: 118px;' }
 
 #tekeningen met babet{: style='left: 104px; top: 81px;' class='collapsed' }
 
