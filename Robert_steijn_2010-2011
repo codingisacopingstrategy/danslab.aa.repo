@@ -57,7 +57,7 @@ Mode:       canvas
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/img_0272.jpg
 ||embed:img ]]
-#Photos{: class='collapsed' }
+#Photos{: style='left: 383px; top: 102px;' class='collapsed' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/img_0280.jpg
 ||embed:img ]]
 
