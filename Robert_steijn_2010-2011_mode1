@@ -128,7 +128,7 @@ tag robert
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/beeld/img_0321.jpg
 ||embed:img ]]
 
-#video{: style='left: 25px; top: 203px; width: 333.167px; height: 260.167px;' }
+#video{: style='left: 25px; top: 203px; width: 333.167px; height: 260.167px;' class='collapsed' }
 
 #tekeningen met babet{: style='left: 27.0833px; top: 289.5px; width: 233.167px; height: 272.167px;' class='collapsed' }
 
