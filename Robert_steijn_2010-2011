@@ -32,9 +32,10 @@ Mode:       canvas
 #Photos
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0179.jpg
 ||embed:img ]]
-#Photos
+#Photos{: style='left: 867px; top: 690px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0185.jpg
 ||embed:img ]]
+
 #Photos{: style='left: 884px; top: 659px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0188.jpg
 ||embed:img ]]
