@@ -133,9 +133,9 @@ doc ?
 #Marcel Bogers{: style='left: 375px; top: 15px; width: 378px; height: auto;font-size:16px;' }
 
 ##<h2>Marcel Bogers</h2>
-1. Texte a
-2. Teste b
-3. Texte c
+<h4>1. Texte a</h4>
+<h4>2. Teste b</h4>
+<h4>3. Texte c</h4>
   
 <h3>KUNST IS HET PERSOONLIJKE IS HET POLITIEKE</h3>
 
