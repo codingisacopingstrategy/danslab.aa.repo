@@ -130,7 +130,7 @@ tag robert
 
 #video{: style='left: 868px; top: 732px; width: 333.167px; height: 162.167px;' }
 
-#tekeningen met babet{: style='left: 124px; top: 541px; width: 233.167px; height: 272.167px;' }
+#tekeningen met babet{: style='left: 124px; top: 541px; width: 233.167px; height: 272.167px;' class='collapsed' }
 
 doc ?
 
