@@ -130,9 +130,9 @@ Mode:       canvas
 
 doc ?
 
-#Marcel Bogers{: style='left: 375px; top: 15px; width: 378px; height: auto;font-size:20px;' }
+#Marcel Bogers{: style='left: 375px; top: 15px; width: 378px; height: auto;' }
 
-##Marcel Bogers
+##Marcel Bogers{: style='font-size:20px;' }
 
   
 KUNST IS HET PERSOONLIJKE IS HET POLITIEKE
