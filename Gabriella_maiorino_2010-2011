@@ -26,9 +26,10 @@ Mode:       canvas
 
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/gabriella_maiorino/photos/available4.jpg
 ||embed:img ]]
-#Photos
+#Photos{: style='left: 290px; top: 109px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/gabriella_maiorino/photos/available11.jpg
 ||embed:img ]]
+
 #Photos{: style='left: 197px; top: 157px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/gabriella_maiorino/photos/available12.jpg
 ||embed:img ]]
