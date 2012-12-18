@@ -8,6 +8,7 @@ Type:       default
             map
 Mode:       canvas
             cinematic
+extra_css: blabla
 
 # Luminosity, Amy Cox{: style='top: 0px; left: 15px;' }
 
