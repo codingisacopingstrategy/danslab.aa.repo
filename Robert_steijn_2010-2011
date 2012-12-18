@@ -38,7 +38,7 @@ Mode:       canvas
 #Photos
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0188.jpg
 ||embed:img ]]
-#Photos{: class='collapsed' }
+#Photos{: style='left: 903px; top: 644px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0198.jpg
 ||embed:img ]]
 
