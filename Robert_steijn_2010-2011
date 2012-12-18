@@ -169,7 +169,7 @@ Mode:       canvas
 
 #video{: style='left: 730px; top: 167px;' }
 
-#tekeningen met babet{: style='left: 104px; top: 81px;' class='collapsed' }
+#tekeningen met babet{: style='left: 104px; top: 81px;' }
 
 doc ?
 
