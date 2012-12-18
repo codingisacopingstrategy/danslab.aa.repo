@@ -128,7 +128,7 @@ Mode:       canvas
 
 #video{: style='left: 1501.83px; top: 179px;' class='collapsed' }
 
-#tekeningen met babet{: style='left: 19px; top: 223px;' }
+#tekeningen met babet{: style='left: 19px; top: 223px;' class='collapsed' }
 
 doc ?
 
