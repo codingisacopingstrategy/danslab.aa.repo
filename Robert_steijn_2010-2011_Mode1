@@ -136,7 +136,7 @@ doc ?
 
 #Marcel Bogers{: style='left: 475.833px; top: 25px; width: 378px; height: auto; font-size: 16px;padding:2em 2em 2em 2em;background-color:yellow;z-index:999;font-family:times;' }
 
-##<h2>Marcel Bogers</h2>  {: style='left: 479px; top: 23px; width: 378px; height: auto; font-size: 16px;' }
+##<h2>Marcel Bogers</h2>  {: style='left: 479px; top: 23px; width: 378px; height: auto; font-size: 16px;font-size:18px;' }
 
 <h3><a>1. Texte a</a></h3>
 <h3><a>2. Texte b</a></h3>
