@@ -1,0 +1,11 @@
+# annotation
+
+## As span
+- %%creator::Eric Schrijver%%
+- %%dc:creator::Eric Schrijver%%
+- %%dc:creator::Eric Schrijver|Eric%%
+
+## As link
+- [[creator::Eric Schrijver]]
+- [[dc:creator::Eric Schrijver]]
+- [[dc:creator::Eric Schrijver|Eric]] 
