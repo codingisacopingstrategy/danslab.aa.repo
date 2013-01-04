@@ -9,7 +9,7 @@ Type:       default
 Mode:       canvas
             cinematic
 
-#Photos{: style='left: 1001.25px; top: 1628.92px; width: 300.167px; height: 226.167px;background-color:blue;' }
+#Photos{: style='left: 1001.25px; top: 1628.92px; width: 300.167px; height: 226.167px;' }
 [[ embed::http://vps23323.public.cloudvps.com/repo/2010-2011/robert_steijn/fotos/dsc_0049.jpg
 ||embed:img ]]
 
