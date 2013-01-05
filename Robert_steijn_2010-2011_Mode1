@@ -138,9 +138,9 @@ doc ?
 
 ##<h2>Marcel Bogers</h2>  {: style='left: 479px; top: 23px; width: 378px; height: auto; ' }
 <ul class='liste' style='text-align:center;'>
-<li><a>1. Texte a</a></li>
-<li><a>2. Texte b</a></li>
-<li><a>3. Texte c</a></li>
+<li><a>Texte a</a></li>
+<li><a>Texte b</a></li>
+<li><a>Texte c</a></li>
 </ul>      
     
 
