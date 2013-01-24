@@ -132,18 +132,18 @@ Mode:       canvas
 
 #    {: style='left: 475.833px; top: 25px; width: 378px; height: auto; font-size: 16px;padding:2em 2em 2em 2em;background-color:yellow;z-index:999;font-family:times;' }
 
-###Project : Art instead of Propaganda
+%%project::Art instead of Propaganda%%
 
-###By : Robert Steijn
+%%artist::Robert Steijn%%
 
 ##Kunst is het persoonlijke is het politieke  {: style='left: 479px; top: 23px; width: 378px; height: auto; ' }
 
-###Author : Marcel Bogers
+%%author::Marcel Bogers%%
 
-Other texts on Robert Stein :
+%%othertexts::Other texts on Robert Stein :
 <ul class='liste' style='text-align:center;'>
 <li><a>Reflections on research Art instead of Propaganda</a></li>
-</ul>      
+</ul>%%
 
 Er waait een straffe %%concept::politieke%% wind door Nederland en de kunst is plotseling speerpunt geworden van een maatschappelijk en ook ideologisch debat. Dat %%concept::politieke%% en kunst met elkaar in dialoog zijn is zinvol. Maar het huidige debat is gepolitiseerd en gaat vooral over subsidiering en maatschappelijk draagvlak. Kan de kunst een antwoord vinden op dit eenzijdige debat, en zo ja hoe dan?
 
