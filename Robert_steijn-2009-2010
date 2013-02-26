@@ -12,7 +12,8 @@ extra_css: blabla
 
 #    {: style='top: 138px; left: 47px;' }
 
-project: %%project::Caught by the mystery of the eyes%%
+Project:   
+%%project::Caught by the mystery of the eyes%%
 
 %%choreographer::Robert Steijn%%
 
