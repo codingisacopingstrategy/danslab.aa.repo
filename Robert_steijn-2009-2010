@@ -10,7 +10,7 @@ Mode:       canvas
             cinematic
 extra_css: blabla
 
-#    {: style='top: 138px; left: 47px;' }
+#    {: style='top: 138px; left: 47px;padding:2em 2em 2em 2em;' }
 
 
 ###Luminosity
