@@ -130,12 +130,11 @@ Mode:       canvas
 
 %%choreographer::Robert Steijn%%
 
-##Kunst is het persoonlijke is het politieke 
-###{: style='left: 479px; top: 23px; width: 378px; height: auto; ' }
+##Kunst is het persoonlijke is het politieke {: style='left: 479px; top: 23px; width: 378px; height: auto; ' }
 by %%author::Marcel Bogers%%    
 
 Other texts on %%othertexts::Robert Steijn%% :  
-{: style='color:red;' }<a>Reflections on research Art instead of Propaganda</a>
+###<a>Reflections on research Art instead of Propaganda</a>{: style='color:red;' }
 <a>Caught by the mystery of the eyes</a>
       
       
