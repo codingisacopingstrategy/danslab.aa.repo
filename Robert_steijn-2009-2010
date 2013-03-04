@@ -49,7 +49,7 @@ In its entirety, the work reminded me of a phrase from the %%references::Yoga Su
 %%author::Robert Steijn%% 
 
 %%othertexts::Other texts on Robert Steijn%% :
-<ul class='liste' style='text-align:center;'>
+<ul class='liste' style='text-decoration:underline;'>
 <li><a>Luminosity</a></li>
 <li><a>Event</a></li>
 </ul>
